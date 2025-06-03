@@ -9,7 +9,7 @@ b = ones(n)
 # résoudre Ax = b
 
 ### votre code ici ; ne rien modifier d'autre
-x = A\b
+x = A \ b
 ###
 
 # vérification
